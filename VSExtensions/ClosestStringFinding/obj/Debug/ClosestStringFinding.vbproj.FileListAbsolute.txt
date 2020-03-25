@@ -16,3 +16,12 @@ I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.vbp
 I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.dll
 I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.xml
 I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.pdb
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\bin\Debug\ClosestStringFinding.dll
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\bin\Debug\ClosestStringFinding.pdb
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\bin\Debug\ClosestStringFinding.xml
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.vbprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.Resources.resources
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.vbproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.dll
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.xml
+C:\Users\Michal\Desktop\do wrzucenia\VSExtensions\ClosestStringFinding\obj\Debug\ClosestStringFinding.pdb

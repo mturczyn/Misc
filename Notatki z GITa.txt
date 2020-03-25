@@ -1,9 +1,35 @@
-TESTUJEMY FORK na moim prywatnym repo
+GIT BASICS
 
+Initializing GIT repo and connecting it to remote repo on GitHub:
+
+# Initiailze git repo
+git init
+# Add and commit file already existing in directory
+git add .
+git commit -m "Some meaningful commit comment"
+# "Connect" remote repo on GitHub to the local repo
+git remote add [URL to repo on github]
+# Push all changes (add files) to remote,
+# -f will ignore and overwrite existing remote repo with files from local repo
+# -u will set this remote repo (named origin by default) as default for all pushes
+git push -u -f origin master
+
+Also, here's sample git config file to better understand what's master and what's origin:
+
+[remote "origin"]
+	url = ...
+	fetch = ...
+[branch "master"]
+
+origin is remote repository, while master is a branch.
+
+SOME PERSONAL NOTES
+
+Opis podłączania się pod inne repo, robienia forka z tego,
 1. Wpierw na githubie, na słuzbowym koncie robię forka mojego prywatnego repo.
 2. Robie checkout za pomocą: git clone
 
-Katalog, w którym jesteśmy odpowiada http://github.com/michal-turczyn/, robiąc checkout http://github.com/michal-turczyn/[jakiekowliek repo] w lokalizacji tworzone jest [jakiekowliek repo].
+Katalog, w którym jesteśmy odpowiada http://github.com/example_account/, robiąc checkout http://github.com/example_account/[jakiekowliek repo] w lokalizacji tworzone jest [jakiekowliek repo].
 
 Aby dodać oryginalny (czyli u nas będzie to projekt OpenProject) projekt, tak aby móc sobie z niego aktualizować też zmiany, należy wykonać
 
@@ -17,4 +43,4 @@ git pull upstream master
 
 git pull origin master
 
-Uwaga: "origin" to domyslne (chyba) źródło pushów i pullów, natomiast "upstream" (nazwę sami wybieramy, ale taka jest konwencja w forkach) jest "połączeniem" do oryginalnego repo, które forkowaliśmy.
+Uwaga: "origin" to domyslne źródło pushów i pullów, natomiast "upstream" (nazwę sami wybieramy, ale taka jest konwencja w forkach) jest "połączeniem" do oryginalnego repo, które forkowaliśmy.
