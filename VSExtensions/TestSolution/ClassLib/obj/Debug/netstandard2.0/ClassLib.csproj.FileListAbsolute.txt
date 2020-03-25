@@ -1,0 +1,12 @@
+C:\Users\Michal\source\repos\TestSolution\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
+C:\Users\Michal\source\repos\TestSolution\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
+C:\Users\Michal\source\repos\TestSolution\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
+C:\Users\Michal\source\repos\TestSolution\ClassLib\bin\Debug\netstandard2.0\Languages.dll
+C:\Users\Michal\source\repos\TestSolution\ClassLib\bin\Debug\netstandard2.0\Languages.pdb
+C:\Users\Michal\source\repos\TestSolution\ClassLib\bin\Debug\netstandard2.0\en\Languages.resources.dll
+C:\Users\Michal\source\repos\TestSolution\ClassLib\obj\Debug\netstandard2.0\ClassLib.csprojAssemblyReference.cache
+C:\Users\Michal\source\repos\TestSolution\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\TestSolution\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
+C:\Users\Michal\source\repos\TestSolution\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.CopyComplete
+C:\Users\Michal\source\repos\TestSolution\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
+C:\Users\Michal\source\repos\TestSolution\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb

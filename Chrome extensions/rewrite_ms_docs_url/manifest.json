@@ -1,0 +1,17 @@
+{
+  // Wskazuje na wersję pliku manifest, musi być 2, bo 1 jest już przestarzały i niedługo nie będzie wspierany.
+  "manifest_version": 2,
+
+  "name": "Rewrite MS docs URL to en locale",
+  "description": "This extension redirects all requests to microsoft docs from polish to english version of a site.",
+  "version": "1.0",
+  // Tutaj ładujemy skrypty.
+  "background": {
+    "scripts": ["redirect_ms_docs_to_en.js"],
+	// jeśli używamy webRequest API, to musi być na true
+	"persistent": true
+  },
+  // Tutaj deklarujemy, z jakiego API przeglądarki chcemy skorzystać.
+  // W przypadku webREquest, deklarujemy hosty, do jakich chcemy się dostawać.
+  "permissions": ["webRequestBlocking", "webRequest", "*://docs.microsoft.com/*"]
+}

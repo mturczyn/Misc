@@ -1,0 +1,25 @@
+Częste problemy:
+- połączenie z internetem: aby aktywować połączenie z internetem naeży wykonać poniższe polecenia w powłoce:
+  sudo ifdown eth0
+  sudo ifup eth0
+  
+- jak jakaś komenda nie działa, należy upewnić sie, że nie jest to spowodowane uprawnieniami, także należy spróbować wykonać tą samą komendę poprzedzając "sudo" (super user do)
+
+- lista usług: systemctl
+
+- często filtrujemy wynikowe listy, które możemy "pipe'ować" operatorem |, po którym używamy grep:
+  systemctl | grep ssh
+  
+- cat - wyświetla zawartość pliku
+
+- ^Z - wstrzmnie aplikacji i przneiesienie jej do tła - wracamy do konosli,
+  aby do niej potem wrócić, wykonujemy jobs, który wyswietli nam aplikacji z ich id, a następnie
+  wykonujemy foreground (lub fg) z id programu, który chcemy uruchomić
+  
+== BASH ======
+Przypisanie zmiennej:
+  STRING="hello world"
+Nie ma spacji wokół "="!!!!
+Komentarze za pomocą "#"
+Znaki nowej linii muszą być uniksowe!
+Pierwsza linia musi zawierać "egzekutor", czyli coś co wykona nasz plik. Ścieżke znajdiemy za pomocą "which bash" (zazwyczaj to jest 

@@ -1,0 +1,320 @@
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\AddTranslation.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\AddTranslation.pkgdef
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\AddTranslation.vsix
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\extension.vsixmanifest
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\EnvDTE.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\EnvDTE100.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\EnvDTE80.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\EnvDTE90.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\stdole.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\System.ValueTuple.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\EnvDTE90a.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.MSXML.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Editor.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Validation.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\System.ValueTuple.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\Windows\AddTranslationWindow.g.cs
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation_MarkupCompile.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation_MarkupCompile.lref
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\Windows\AddTranslationWindow.baml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.g.resources
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\VSPackage.resources
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csproj.GenerateResource.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslationCommandPackage.cto
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\VSCT.read.1.tlog
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\VSCT.write.1.tlog
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\resources.json
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\ctoFiles.json
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\mergeCto.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csproj.CopyComplete
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.pdb
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.pkgdef
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.latest.pkgdef
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\extension.vsixmanifest
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\files.json
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Release\createTemplateManifests.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ClosestStringFinding.pdb
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Release\ClosestStringFinding.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\AddTranslation.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\AddTranslation.pkgdef
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\AddTranslation.vsix
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\extension.vsixmanifest
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\EnvDTE.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\EnvDTE100.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\EnvDTE80.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\EnvDTE90.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\stdole.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\System.ValueTuple.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\EnvDTE90a.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.MSXML.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ClosestStringFinding.pdb
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ClosestStringFinding.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\Microsoft.VisualStudio.Validation.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\System.ValueTuple.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\bin\Release\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\Windows\AddTranslationWindow.g.cs
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation_MarkupCompile.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation_MarkupCompile.lref
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\Windows\AddTranslationWindow.baml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.g.resources
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\VSPackage.resources
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csproj.GenerateResource.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslationCommandPackage.cto
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\VSCT.read.1.tlog
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\VSCT.write.1.tlog
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\resources.json
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\ctoFiles.json
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\mergeCto.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.csproj.CopyComplete
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.pdb
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.pkgdef
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\AddTranslation.latest.pkgdef
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\extension.vsixmanifest
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\files.json
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\AddTranslation\obj\Release\createTemplateManifests.cache
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\AddTranslation.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\AddTranslation.pkgdef
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\AddTranslation.vsix
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\extension.vsixmanifest
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ClosestStringFinding.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\EnvDTE.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\EnvDTE100.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\EnvDTE80.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\EnvDTE90.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.CommandBars.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Imaging.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.15.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Framework.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Data.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Logic.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Threading.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Validation.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\stdole.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\System.ValueTuple.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\EnvDTE90a.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Telemetry.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.MSXML.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Newtonsoft.Json.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.RemoteControl.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.Internal.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ClosestStringFinding.pdb
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ClosestStringFinding.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Imaging.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Data.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.Logic.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Threading.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Utilities.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\Microsoft.VisualStudio.Validation.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\System.ValueTuple.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\cs\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\de\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\es\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\fr\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\it\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ja\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ko\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\pl\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ru\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\tr\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\cs\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\de\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\es\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\fr\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\it\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ja\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ko\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\pl\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\ru\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\tr\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Release\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.csprojAssemblyReference.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\Windows\AddTranslationWindow.g.cs
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\GeneratedInternalTypeHelper.g.cs
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation_MarkupCompile.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation_MarkupCompile.lref
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\Windows\AddTranslationWindow.baml
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.g.resources
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\VSPackage.resources
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.csproj.GenerateResource.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslationCommandPackage.cto
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\VSCT.read.1.tlog
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\VSCT.write.1.tlog
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\resources.json
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\ctoFiles.json
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\VSPackage.resources.original
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\mergeCto.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.csproj.CopyComplete
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.dll
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.pdb
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.pkgdef
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\AddTranslation.latest.pkgdef
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\extension.vsixmanifest
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\files.json
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Release\createTemplateManifests.cache

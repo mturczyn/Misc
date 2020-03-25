@@ -1,0 +1,29 @@
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\bin\Release\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\bin\Release\ClosestStringFinding.pdb
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\bin\Release\ClosestStringFinding.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.vbprojAssemblyReference.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.Resources.resources
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.vbproj.GenerateResource.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.vbproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.pdb
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\bin\Release\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\bin\Release\ClosestStringFinding.pdb
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\bin\Release\ClosestStringFinding.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.vbprojAssemblyReference.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.Resources.resources
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.vbproj.GenerateResource.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.vbproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.xml
+C:\Users\Mi\Desktop\CSharp\VsExtensions\AddTranslation\ClosestStringFinding\obj\Release\ClosestStringFinding.pdb
+I:\HUF\_src\VSExtensions\ClosestStringFinding\bin\Release\ClosestStringFinding.dll
+I:\HUF\_src\VSExtensions\ClosestStringFinding\bin\Release\ClosestStringFinding.pdb
+I:\HUF\_src\VSExtensions\ClosestStringFinding\bin\Release\ClosestStringFinding.xml
+I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Release\ClosestStringFinding.vbprojAssemblyReference.cache
+I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Release\ClosestStringFinding.Resources.resources
+I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Release\ClosestStringFinding.vbproj.GenerateResource.cache
+I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Release\ClosestStringFinding.dll
+I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Release\ClosestStringFinding.xml
+I:\HUF\_src\VSExtensions\ClosestStringFinding\obj\Release\ClosestStringFinding.pdb

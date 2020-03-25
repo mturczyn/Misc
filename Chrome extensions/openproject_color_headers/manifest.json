@@ -1,0 +1,13 @@
+{
+  // Wskazuje na wersję pliku manifest, musi być 2, bo 1 jest już przestarzały i niedługo nie będzie wspierany.
+  "manifest_version": 2,
+
+  "name": "Coloring OpenProject day headers",
+  "description": "Kolorowanie nagłówków dni w widoku My Page",
+  "version": "1.0",
+  // Tutaj ładujemy skrypty.
+  "content_scripts": [{
+    "js": ["color_op_dayheaders.js"],
+    "matches": ["*://10.0.0.101/openproject/my/page"]
+  }]
+}

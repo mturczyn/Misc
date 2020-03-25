@@ -1,0 +1,20 @@
+TESTUJEMY FORK na moim prywatnym repo
+
+1. Wpierw na githubie, na słuzbowym koncie robię forka mojego prywatnego repo.
+2. Robie checkout za pomocą: git clone
+
+Katalog, w którym jesteśmy odpowiada http://github.com/michal-turczyn/, robiąc checkout http://github.com/michal-turczyn/[jakiekowliek repo] w lokalizacji tworzone jest [jakiekowliek repo].
+
+Aby dodać oryginalny (czyli u nas będzie to projekt OpenProject) projekt, tak aby móc sobie z niego aktualizować też zmiany, należy wykonać
+
+git remote add upstream http://github.com/mturczyn/anothertestrepo
+
+Wówczas updateujemy sobie nastepująco (z orginalnego repo):
+
+git pull upstream master
+
+Żeby lokalnie sobie zupdateować, używamy: 
+
+git pull origin master
+
+Uwaga: "origin" to domyslne (chyba) źródło pushów i pullów, natomiast "upstream" (nazwę sami wybieramy, ale taka jest konwencja w forkach) jest "połączeniem" do oryginalnego repo, które forkowaliśmy.

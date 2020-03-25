@@ -1,0 +1,32 @@
+Źródło: https://www.codejourney.net/2019/10/how-to-start-working-with-an-unknown-codebase/?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured
+
+1. Architektura
+Jaka to apka? Desktopopwa, webowa, inna?
+Może używa jakichs serwisów?
+Jakie frameworki zostały wykorzystane?
+
+2. Jaki jest model, dane, których używa aplikacja?
+Jaka baza danych?
+Jak są pobierane i zapisywane dane?
+Jak są używane w kodzie?
+jakie są ograniczenia (maks. długość ciągu, itp.)?
+
+3. Nauczyć się wdrażać oprogramowanie
+Jak się buduje, jakie pliki trzzeba przesłać klientowi, żeby mógł sobie aplikację zainstalować?
+Czy są jakieś dane początkowe, które są niezbędne do działania systemu?
+
+4. Jaki jest cel biznesowy aplikacji? Jaką funkcjonalność realizuje?
+
+5. Zaznajomić się z testami, jeśli takowe istnieją.
+Należy się z nimi apoznać, ale jeśli nie są ładnie napisane, nie należy na nich mocno się skupiać.
+
+6. Trzymać blisko dokumentację - nie zagłębiać się w nią.
+
+7. Robić notatki z tego co się zrobiło i jak się zrobiło!
+
+8. Debugowanie
+Zobaczyć jak się aplikacja odpala, jak są kolejne komponenty inicjalizowane.
+
+9. Szukać dosłownie, jak nie wiemy czego szukać (np. po tekście kontrolki).
+
+10. Pytać.

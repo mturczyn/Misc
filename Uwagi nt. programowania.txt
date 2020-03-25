@@ -1,0 +1,22 @@
+Wdrażanie sie w projekt:
+- czytanie dokumentacji (niekoniecznie baaardzo dokładnie) i jak najczęstsze odwołania do kodu, tzn. czytamy i szukamy w kodzie,
+  lub w bazie, aby mieć podgląd sytuacji z dwóch stron
+
+Rozpoznawanie obcego kodu (legacy code):
+- co robi i jaki proces ma obsłużyć? jak najwięcej szczegółów o procesie - USE CASE
+
+Testy:
+- starać się, aby każda linijka kodu została wywołana
+  Implikuje to koniecznośc scenariuszy pozytywnych i negatywnych (aby zahaczyć else w ifie lub catch w try).
+  Kod nieprzetestowany, to kod niedziałający!
+
+Refaktoryzacja:
+- jeśli metoda ma za dużo argumentów, rodzi to podejrzenie, że ma za dużo logiki i można ją rozdzielić.
+  Metody powinny w miarę przestrzegać "Single responsibility principle", jak klasy. Wówczas więcej razy można taką metodę wykorzystać.
+
+Estymacja:
+- projekt bazy danych nie jest taki prosty - przemyśleć jak będą dane wykorzystywane, nie tylko jak je przechować i jakie relacje między nimi będą,
+  jak są wykorzystywane w programie, w jakim celu
+- uzywanie starych komponentów - czy będzie trzeba dostować do obecnego projektu, czy można wziąć jako tzw. boiler plate / ready-to-use
+- również uzywanie gotowych klas nie jest takie oczywiste, ponieważ trzeba często wykorzystać stary kod uzywający tych klas i go mocno dostosować,
+  co i tak jest szybszze niż pisanie wszystkich klas od nowa

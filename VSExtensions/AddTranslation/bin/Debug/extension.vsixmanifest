@@ -1,0 +1,20 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="AddTranslation.27289d5f-5400-4783-b2a3-b86d9d6031d8" Version="1.2" Language="en-US" Publisher="Michał Turczyn" />
+    <DisplayName>AddTranslation</DisplayName>
+    <Description xml:space="preserve">Extension to Visual Studio providing easy way of adding translations in multilanguage projects.Extension to </Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 17.0)" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0.28315.86,17.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="AddTranslation.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="AddTranslation.dll" />
+  </Assets>
+</PackageManifest>

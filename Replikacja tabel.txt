@@ -1,0 +1,43 @@
+REPLIKACJA
+Problemy:
+- na expressie nie działa replikacja jako publisher.
+- ponadto trzeba zainstalować odpowiednie management studio (niekoniecznie, chodziło o dopasowaną wersją SSMSa do silnika)
+- pod koniec konfiguracji dystrybucji mamy błąd:
+  RegCreateKeyEx() returned error 5, 'Odmowa dostępu.' (Microsoft SQL Server, Error: 22002)
+  Okazało się, że użytkownik SQLa nie ma uprawnień na rejestrze dla usługi Agenta SQL, który próbuje zmodyfikować.
+  Ustawienie odpowiednich uprawnień wystarczyło (najlepiej skorzystać z Process Monitora).
+- po ustawieniu publikacji, agent snapshotów nie może sie wystartować, jak dajemy "View Snapshot Agent Status" po kliknięciu prawym przyciskiem myszy mamy status "Starting Agent"
+  Po ustawieniu ścieżki C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA poszło, widocznie nie ma dowolnośći, jesli chodzi o wybór ścieżki.
+
+- konta
+https://docs.microsoft.com/en-us/sql/relational-databases/replication/tutorial-preparing-the-server-for-replication?view=sql-server-ver15
+Tworzymy użytkwoników po stronie publikującego i subskrypcja (u mnie wszyscy mają hasło "sql").
+
+- katalog
+W katalogu SQL Servera (na maszynie publishera) "C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA" tworzymy  katalog "repldata" (sprawdzamy dowolność tworzenia katalogu i dajemy w innym miejscu C:\Users\Michal\Desktop\REPLICATION_CATALOG) i dajemy uprawnienia udziału dla komp_publishera/repl_snapshot (w zakładce udostepniania). Tak samo dodajemy komp_publishera/repl_merge oraz komp_publishera/repl_distribution.
+Uprawnenia: repl_distribution i repl_merge "Prawo do odczytu", repl_snapshot "Pełna kontrola"
+
+Podobnie w zakładce "Zabezpieczenia" katalogu repldata: dodajemy tych trzech uzytkowników oraz dajemytakie same uprwanienia jak powyżej.
+
+- dystrybucja
+Jako katalog do snapshotów musimy podać ścieżkę sieciową do katalogu C:\Users\Michal\Desktop\REPLICATION_CATALOG (ogólnie do katalogu replikacji, który utworzyliśmy)
+
+- uprawnienia w bazie publishera
+Musimy ustawić uprawnienia w bazie danych: dla repl_snapshot ustawiamy role db_owner na bazach distribution (ta, która ustawiła się przy konfiguracji replikacji) oraz do bazy, którą będziemy replikować. To samo dla użytkowników repl_merge, repl_distribution, repl_logreader.
+
+KONFIGURACJA REPLIKACJI TRANZAKCYJNEJ
+Podczas próby uruchomienia Snapshot Agenta otrzymywałem w odpowiedzi "An unspecified error occurred". Szukając w historii jobów i monitorze publikacji nie potrafiłem nic więcej znaleźć.
+
+Okazało się, że brakowało sterownika OLE DB. Tak więc pobrałem ze strony microsoftu najnowszy sterownik w postaci pliku instalacyjnego, który zapisał sterownik msoledbsqlr.rll w lokalizacji C:\Windows\SysWOW64\1033 . Następnie skopiowałem ten sterownik do katalogu C:\Program Files\Microsoft SQL Server\150\COM . To rozwiązało problem.
+
+Ponadto, innym powodem takiej sytuacji może być też jak mamy sterowniki  msoledbsqlr.rll msoledbsqld.dll 32-bitowe, a SQL 64-bitowy.
+
+=== USTAWWIENIE MAILA
+Ustawienie miala bazodanowego
+https://www.mssqltips.com/sqlservertip/1100/setting-up-database-mail-for-sql-server/ - użyłem wszędzie mojego imobitowego maila
+
+Ustawienie operatora:
+https://www.mssqltips.com/sqlservertip/1100/setting-up-database-mail-for-sql-server/
+
+Nazwa operatora: TestDbMailOperator
+e-mail: turek1992@o2.pl

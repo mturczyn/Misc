@@ -1,0 +1,210 @@
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\VSPackage.resources
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.csproj.GenerateResource.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\AddTranslation.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\AddTranslation.pkgdef
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\AddTranslation.vsix
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\extension.vsixmanifest
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\EnvDTE.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\EnvDTE100.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\EnvDTE80.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\EnvDTE90.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\stdole.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\EnvDTE90a.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslationCommandPackage.cto
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\VSCT.read.1.tlog
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\VSCT.write.1.tlog
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\resources.json
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\ctoFiles.json
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\mergeCto.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.csproj.CopyComplete
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.pdb
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.pkgdef
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.latest.pkgdef
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\extension.vsixmanifest
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\files.json
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\createTemplateManifests.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation_MarkupCompile.cache
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation_MarkupCompile.lref
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\AddTranslation.g.resources
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\Windows\AddTranslationWindow.g.cs
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\obj\Debug\Windows\AddTranslationWindow.baml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\System.ValueTuple.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\System.ValueTuple.xml
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ClosestStringFinding.dll
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ClosestStringFinding.pdb
+C:\Users\Mi\Desktop\CSharp\VS extensions\AddTranslation\AddTranslation\bin\Debug\ClosestStringFinding.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\AddTranslation.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\AddTranslation.pkgdef
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\AddTranslation.vsix
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\extension.vsixmanifest
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ClosestStringFinding.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\EnvDTE.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\EnvDTE100.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\EnvDTE80.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\EnvDTE90.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Threading.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Validation.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\stdole.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\System.ValueTuple.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\EnvDTE90a.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.MSXML.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Newtonsoft.Json.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ClosestStringFinding.pdb
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ClosestStringFinding.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Threading.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\Microsoft.VisualStudio.Validation.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\System.ValueTuple.xml
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.csprojAssemblyReference.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\Windows\AddTranslationWindow.g.cs
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation_MarkupCompile.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation_MarkupCompile.lref
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\Windows\AddTranslationWindow.baml
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.g.resources
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\VSPackage.resources
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.csproj.GenerateResource.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslationCommandPackage.cto
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\VSCT.read.1.tlog
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\VSCT.write.1.tlog
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\resources.json
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\ctoFiles.json
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\mergeCto.cache
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.csproj.CopyComplete
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.dll
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.pdb
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.pkgdef
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\AddTranslation.latest.pkgdef
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\extension.vsixmanifest
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\files.json
+I:\HUF\_src\VSExtensions\AddTranslation\obj\Debug\createTemplateManifests.cache
