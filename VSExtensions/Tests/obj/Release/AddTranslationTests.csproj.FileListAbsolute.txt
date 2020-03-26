@@ -1,8 +1,0 @@
-I:\HUF\_src\VSExtensions\Tests\obj\Release\AddTranslationTests.csprojAssemblyReference.cache
-I:\HUF\_src\VSExtensions\Tests\obj\Release\Tests.exe.config
-I:\HUF\_src\VSExtensions\Tests\obj\Release\MainWindow.g.cs
-I:\HUF\_src\VSExtensions\Tests\obj\Release\App.g.cs
-I:\HUF\_src\VSExtensions\Tests\obj\Release\Tests_MarkupCompile.cache
-I:\HUF\_src\VSExtensions\Tests\obj\Release\Tests_MarkupCompile.lref
-I:\HUF\_src\VSExtensions\Tests\obj\Release\Tests.exe
-I:\HUF\_src\VSExtensions\Tests\obj\Release\Tests.pdb
