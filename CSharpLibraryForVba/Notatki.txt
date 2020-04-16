@@ -1,0 +1,30 @@
+﻿Do VBA mogą być tylko dołączane biblioteki z obiektami COM.
+Aby VS nam taką wygenerował i zarejesttrował należy:
+- we właściowaściach projektu, w zakładce Application, w Assembly Information zaznaczyć "Make assembly 
+COM-visible"
+- we właściwościach projektu, w zakładce Build, zaznaczyć "Register for COM interop"
+
+Uwagi: COM nie radzi sobie ze sparametryzowanymi konstruktorami.
+
+Należy używać odpowiednich atrybutów do klas i parametrów, aby były dobrze rozpoznawane w bibliotekach COM, np.:
+- [ComVisible(true)]
+- [ClassInterface(ClassInterfaceType.AutoDual)]
+
+Dodatkowo, należy zwrócić uwagę w jakiej architekturze się buduje bibliotekę, ponieważ były problemy, jak 
+używałem 64-bitowego Office'a, a bibliotekę miałem 32-bitową.
+
+Kod do przetestowania biblioteki .NET:
+
+Sub TestCSharpLib()
+    Dim equation As New LibraryForVba.SquareEquation
+    Dim roots As LibraryForVba.SquareEquationRoots
+    equation.SetSquareEquationParameters 1, 2, 1
+    Set roots = equation.SolveEquation
+    MsgBox roots.X1
+    MsgBox roots.X2 'Empty, bo nie mamy drugiego pierwiastka
+    
+    equation.SetSquareEquationParameters 1, 4, 1
+    Set roots = equation.SolveEquation
+    MsgBox roots.X1
+    MsgBox roots.X2
+End Sub
