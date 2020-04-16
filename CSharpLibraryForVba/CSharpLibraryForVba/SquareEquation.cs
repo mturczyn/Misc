@@ -7,17 +7,6 @@ using System.Threading.Tasks;
 
 namespace LibraryForVba
 {
-  //[ComVisible(true)]
-  //[ClassInterface(ClassInterfaceType.AutoDual)]
-  //public class CSharpTools
-  //{
-  //  [ComVisible(true)]
-  //  public string AddBrackets(string value)
-  //  {
-  //    return "[" + value + "]";
-  //  }
-  //}
-
   [ComVisible(true)]
   [ClassInterface(ClassInterfaceType.AutoDual)]
   public class SquareEquation
@@ -54,6 +43,7 @@ namespace LibraryForVba
   [ComVisible(true)]
   public class SquareEquationRoots
   {
+    // Jest to obejscie braku typów Nullable w COMie.
     [ComVisible(true)]
     [MarshalAs(UnmanagedType.Struct)]
     public object X1;
