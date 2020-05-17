@@ -1,0 +1,17 @@
+{
+  // Wskazuje na wersję pliku manifest, musi być 2, bo 1 jest już przestarzały i niedługo nie będzie wspierany.
+  "manifest_version": 2,
+  "name": "Translations",
+  "icons": { "16": "babla-logo.ico"},
+  "description": "Tłumaczenie tekstu",
+  "version": "1.0",
+  "permissions": [
+    "contextMenus",
+	"*://pl.bab.la/*"
+  ],
+  "background": {
+    "scripts": ["translation.js"],
+	// jeśli używamy webRequest API, to musi być na true
+	"persistent": true
+  }
+}
