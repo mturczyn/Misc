@@ -15,7 +15,7 @@ function searchText(info){
 		if(xhr.readyState !== XMLHttpRequest.DONE) return;
 		var doc = new DOMParser().parseFromString(xhr.response, 'text/html');
 		var translations = doc.querySelectorAll('body > main > div.page > div > div.content-column > div:nth-child(1) > div > div > div.quick-result-overview li');
-		translations = [].map.call(translations, (item, index) => ++index + '. ' + item.innerText);
+		translations = [].map.call(translations, (item, index) => (++index + '.').padEnd(4) + item.innerText);
 		alert(`${textToTranslate}:\n${translations.join('\n')}`);
 	};
 	xhr.open('GET', 'https://pl.bab.la/slownik/angielski-polski/' + textToTranslate);
