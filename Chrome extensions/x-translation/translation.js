@@ -1,4 +1,3 @@
-alert('Extension loaded');
 chrome.contextMenus.create({
 	title: 'Tłumacz: %s',
 	contexts: ['selection'],
