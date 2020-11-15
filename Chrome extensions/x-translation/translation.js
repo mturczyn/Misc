@@ -7,7 +7,7 @@ chrome.contextMenus.create({
 function searchText(info){
 	// Pozbywamy się niepotrebnych spacji na początku i na końcu,
 	// oraz wwszelkich białych znaków i zastepujemy je spacją.
-	textToTranslate = info.selectionText.trim().replace(/\s+/g, ' ');
+	textToTranslate = info.selectionText.replace(/\s+/g, ' ').trim();
 	if(!textToTranslate) return;
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = () => {
