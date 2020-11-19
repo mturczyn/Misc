@@ -18,7 +18,6 @@ namespace ConsoleApp1
             Console.WriteLine($"{nameof(person)} = {person}");
             Console.WriteLine($"{nameof(fName)} = {fName}");
             Console.WriteLine($"{nameof(lName)} = {lName}");
-
             // Output:
             // person = Person { FirstName = Michal, LastName = Turczyn }
             // fName = Michal
