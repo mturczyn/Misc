@@ -16,11 +16,14 @@ namespace ConsumerProducerUsingChannels
         private static readonly string _rewriteFileName = "testFileRewritten.txt";
         private static readonly string _path = Path.Combine(_directory, _fileName);
         private static readonly string _rewritePath = Path.Combine(_directory, _rewriteFileName);
-        private static readonly int _linesCount = 10;
+        private static readonly int _linesCount = 1000000;
         // Only when delay is involved, advantage of Channel can be seen.
         // Reading single line of file is fast enough to work synchronously.
-        private static readonly int _readerDelayMs = 50;
-        private static readonly int _writerDelayMs = 50;
+        private static readonly int _readerDelayMs = 0;
+        private static readonly int _writerDelayMs = 0;
+        // To force parallel read and write we limit the channel capacity,
+        // so when it becomes full, reading is started.
+        private static readonly int _maxChannelCapacity = 1;
 
         static void Main(string[] args)
         {
@@ -61,10 +64,10 @@ namespace ConsumerProducerUsingChannels
         {
             Console.WriteLine($"Starting {nameof(RewriteFilesWithChannels)}");
 
-            var options = new UnboundedChannelOptions();
+            var options = new BoundedChannelOptions(_maxChannelCapacity);
             options.SingleReader = true;
             options.SingleWriter = true;
-            var channel = Channel.CreateUnbounded<string>(options);
+            var channel = Channel.CreateBounded<string>(options);
             // Here we run writer and reader tasks.
             var writerTask = ReadFromChannel(channel);
             var readerTask = WriteToChannel(channel);
@@ -82,7 +85,7 @@ namespace ConsumerProducerUsingChannels
             {
                 while (await channel.Reader.WaitToReadAsync().ConfigureAwait(false))
                 {
-                    Console.WriteLine($"{nameof(ReadFromChannel)} Current task {Thread.CurrentThread.ManagedThreadId}");
+                  //  Console.WriteLine($"{nameof(ReadFromChannel)} Current task {Thread.CurrentThread.ManagedThreadId}");
 
                     await Task.Delay(_readerDelayMs).ConfigureAwait(false);
                     channel.Reader.TryRead(out string line);
@@ -101,7 +104,7 @@ namespace ConsumerProducerUsingChannels
             using var reader = new StreamReader(_path);
             while (!reader.EndOfStream)
             {
-                Console.WriteLine($"{nameof(WriteToChannel)} Current thread {Thread.CurrentThread.ManagedThreadId}");
+               // Console.WriteLine($"{nameof(WriteToChannel)} Current thread {Thread.CurrentThread.ManagedThreadId}");
 
                 await Task.Delay(_writerDelayMs).ConfigureAwait(false);
                 var line = await reader.ReadLineAsync().ConfigureAwait(false);
