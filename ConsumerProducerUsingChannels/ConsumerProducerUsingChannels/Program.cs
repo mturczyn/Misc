@@ -82,6 +82,8 @@ namespace ConsumerProducerUsingChannels
             {
                 while (await channel.Reader.WaitToReadAsync().ConfigureAwait(false))
                 {
+                    Console.WriteLine($"{nameof(ReadFromChannel)} Current task {Thread.CurrentThread.ManagedThreadId}");
+
                     await Task.Delay(_readerDelayMs).ConfigureAwait(false);
                     channel.Reader.TryRead(out string line);
                     await writer.WriteLineAsync(line).ConfigureAwait(false);
@@ -99,6 +101,8 @@ namespace ConsumerProducerUsingChannels
             using var reader = new StreamReader(_path);
             while (!reader.EndOfStream)
             {
+                Console.WriteLine($"{nameof(WriteToChannel)} Current thread {Thread.CurrentThread.ManagedThreadId}");
+
                 await Task.Delay(_writerDelayMs).ConfigureAwait(false);
                 var line = await reader.ReadLineAsync().ConfigureAwait(false);
                 channel.Writer.TryWrite(line);
