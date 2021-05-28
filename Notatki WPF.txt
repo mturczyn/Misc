@@ -1,0 +1,30 @@
+DEBUGOWANIE BINDINGÓW
+- Adjusting the trace level
+  W xamlu, w namespace'ach załączamy 
+  xmlns:diag="clr-namespace:System.Diagnostics;assembly=WindowsBase"
+  a w bindingu dopisujemy "{Binding Title, diag:PresentationTraceSources.TraceLevel=High}"
+  To pozwala na dokładniejsze logowanie informacji do outputu.
+- Dummy converter - piszemy trywialny converter, tak tylko aby zatrzymać się w kodzie debugerem, np.:
+  public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+		{
+			Debugger.Break();
+			return value;
+		}
+
+
+StackPanel ma nieskończoną wysokość domyślnie.
+
+Lista przerobionych rzeczy:
+- Run - elementy Inline (jest to klasa bazowa)
+- DataTemplate,
+- ControlTemplate, TemplateBinding
+- hit testing w UI
+- Binding, PriorityBinding, MultiBinding (StringFormat w Bindingu jest etapem konwersji i następuje zaraz po customowym konwerterze, jesli został zdefiniowny)
+
+DRAG AND DROP + WŁASNY ADORNER
+
+Ważne jest to, skąd pobieramy AdornerLayer, bo do niego dodajemy naszego adornera.
+Również przy tworzeniu adornera, przekazujemy element UI, na którym ma byc Adorner wyświetlany.
+Potem, tłumacząc pozycję myszki pobraną za pomocą metody WinAPI GetCursorPos, musimy użyć odpowiedniego obiektu do tłumaczenia punktu (metda [odpowiedni obiekt UI].PointFromscreen).
+
+Do tworzenia adornera, do pobirania adorneraLayera oraz tłumaczenia punktu musi zostać użyty ten sam obiekt.
